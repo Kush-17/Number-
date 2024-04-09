@@ -8,4 +8,5 @@ NUMBER-PLATE-DETECTION
    4. OCR: Recognizing alphanumeric characters.
    5. Post-processing: Cleaning OCR results and taking actions based on the text.
 
->>
+.xml file is the training dataset for project 
+
